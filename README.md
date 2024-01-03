@@ -4,6 +4,7 @@
 </p>
 
 ## The Game..
+![Sliding](https://github.com/Sata-hash/Visualise_Sliding_Window/assets/142712421/91410759-e281-49f2-a763-3edef53df9c7)
 
 
 ## Made With:
